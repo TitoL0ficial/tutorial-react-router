@@ -2,7 +2,7 @@ let invoices = [
     {
         name: "Santa Mônica",
         number: 1995,
-        amount: "$,000",
+        amount: "$10,000",
         due: "12/05/1995",
     },
     {
